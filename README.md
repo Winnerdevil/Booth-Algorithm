@@ -21,4 +21,3 @@ Example:
   ```
 
 so, answer for the BR = 2 and QR = 2 is 4.
-this example is explained in the video provided.
